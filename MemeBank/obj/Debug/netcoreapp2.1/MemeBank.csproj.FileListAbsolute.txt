@@ -1,0 +1,16 @@
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.deps.json
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.runtimeconfig.json
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.runtimeconfig.dev.json
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.dll
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.pdb
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.csprojAssemblyReference.cache
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.csproj.CoreCompileInputs.cache
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorAssemblyInfo.cache
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorAssemblyInfo.cs
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.AssemblyInfoInputs.cache
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.AssemblyInfo.cs
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorTargetAssemblyInfo.cache
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.dll
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.pdb
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\System.Drawing.VisualStudio.15.0.dll
+C:\Users\ArjunAsri\source\repos\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.csproj.CopyComplete
