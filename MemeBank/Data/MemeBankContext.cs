@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using MemeBank.Models;
 
 namespace MemeBank.Models
 {
@@ -14,5 +15,9 @@ namespace MemeBank.Models
         }
 
         public DbSet<MemeBank.Models.MemeItem> MemeItem { get; set; }
+
+        public DbSet<MemeBank.Models.MeetingItem> MeetingItem { get; set; }
+
+        public DbSet<MemeBank.Models.TaskItem> TaskItem { get; set; }
     }
 }

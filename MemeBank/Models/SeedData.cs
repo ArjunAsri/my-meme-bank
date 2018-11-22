@@ -16,20 +16,20 @@ namespace MemeBank.Models
                 serviceProvider.GetRequiredService<DbContextOptions<MemeBankContext>>()))
             {
                 // Look for any movies.
-                if (context.MemeItem.Count() > 0)
+                if (context.TaskItem.Count() > 0)
                 {
                     return;   // DB has been seeded
                 }
 
-                context.MemeItem.AddRange(
-                    new MemeItem
+                context.TaskItem.AddRange(
+                    new TaskItem
                     {
-                        Title = "Is Mayo an Instrument?",
-                        Url = "https://i.kym-cdn.com/photos/images/original/001/371/723/be6.jpg",
-                        Tags = "spongebob",
-                        Uploaded = "07-10-18 4:20T18:25:43.511Z",
-                        Width = "768",
-                        Height = "432"
+                        Id = 1,
+                        Task_Name = "Complete ROL",
+                        Task_Priority = 5,
+                        Task_Description = "ROL is just some random stuff",
+                        Task_CourseNumber = "ENGGEN403",
+                        Task_Deadline = DateTime.Parse("11/01/2018")
                     }
 
 
