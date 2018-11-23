@@ -1,0 +1,14 @@
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\bin\Debug\netcoreapp2.1\MSA_Task_Schedule.deps.json
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\bin\Debug\netcoreapp2.1\MSA_Task_Schedule.runtimeconfig.json
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\bin\Debug\netcoreapp2.1\MSA_Task_Schedule.runtimeconfig.dev.json
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\bin\Debug\netcoreapp2.1\MSA_Task_Schedule.dll
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\obj\Debug\netcoreapp2.1\MSA_Task_Schedule.csprojAssemblyReference.cache
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\obj\Debug\netcoreapp2.1\MSA_Task_Schedule.csproj.CoreCompileInputs.cache
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\obj\Debug\netcoreapp2.1\MSA_Task_Schedule.RazorAssemblyInfo.cache
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\obj\Debug\netcoreapp2.1\MSA_Task_Schedule.RazorAssemblyInfo.cs
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\obj\Debug\netcoreapp2.1\MSA_Task_Schedule.AssemblyInfoInputs.cache
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\obj\Debug\netcoreapp2.1\MSA_Task_Schedule.AssemblyInfo.cs
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\obj\Debug\netcoreapp2.1\MSA_Task_Schedule.RazorTargetAssemblyInfo.cache
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\bin\Debug\netcoreapp2.1\MSA_Task_Schedule.pdb
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\obj\Debug\netcoreapp2.1\MSA_Task_Schedule.dll
+C:\Users\ArjunAsri\source\repos\MSA_Task_Schedule\MSA_Task_Schedule\obj\Debug\netcoreapp2.1\MSA_Task_Schedule.pdb
